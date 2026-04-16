@@ -1,0 +1,15 @@
+C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Tarea\EjerciciosGarlati-Programacion3\EjercicioLogica\bin\Debug\net10.0\EjercicioLogica.exe
+C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Tarea\EjerciciosGarlati-Programacion3\EjercicioLogica\bin\Debug\net10.0\EjercicioLogica.deps.json
+C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Tarea\EjerciciosGarlati-Programacion3\EjercicioLogica\bin\Debug\net10.0\EjercicioLogica.runtimeconfig.json
+C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Tarea\EjerciciosGarlati-Programacion3\EjercicioLogica\bin\Debug\net10.0\EjercicioLogica.dll
+C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Tarea\EjerciciosGarlati-Programacion3\EjercicioLogica\bin\Debug\net10.0\EjercicioLogica.pdb
+C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Tarea\EjerciciosGarlati-Programacion3\EjercicioLogica\obj\Debug\net10.0\EjercicioLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Tarea\EjerciciosGarlati-Programacion3\EjercicioLogica\obj\Debug\net10.0\EjercicioLogica.AssemblyInfoInputs.cache
+C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Tarea\EjerciciosGarlati-Programacion3\EjercicioLogica\obj\Debug\net10.0\EjercicioLogica.AssemblyInfo.cs
+C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Tarea\EjerciciosGarlati-Programacion3\EjercicioLogica\obj\Debug\net10.0\EjercicioLogica.csproj.CoreCompileInputs.cache
+C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Tarea\EjerciciosGarlati-Programacion3\EjercicioLogica\obj\Debug\net10.0\EjercicioLogica.sourcelink.json
+C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Tarea\EjerciciosGarlati-Programacion3\EjercicioLogica\obj\Debug\net10.0\EjercicioLogica.dll
+C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Tarea\EjerciciosGarlati-Programacion3\EjercicioLogica\obj\Debug\net10.0\refint\EjercicioLogica.dll
+C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Tarea\EjerciciosGarlati-Programacion3\EjercicioLogica\obj\Debug\net10.0\EjercicioLogica.pdb
+C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Tarea\EjerciciosGarlati-Programacion3\EjercicioLogica\obj\Debug\net10.0\EjercicioLogica.genruntimeconfig.cache
+C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Tarea\EjerciciosGarlati-Programacion3\EjercicioLogica\obj\Debug\net10.0\ref\EjercicioLogica.dll

@@ -24,24 +24,42 @@ class Program
 
     static void Ejercicio1V0()
     {
-        const decimal TASA_IVA = 0.21m;
-        const bool MODO_PRUEBA = false;
-        const char SIMBOLO_PESO = '$';
+        // const decimal TASA_IVA = 0.21m;
+        // const bool MODO_PRUEBA = false;
+        // const char SIMBOLO_PESO = '$';
 
-        Console.WriteLine("--- MÓDULO DE FACTURACIÓN ---");
-        Console.WriteLine("Modo prueba activo: " + MODO_PRUEBA);
+        // Console.WriteLine("--- MÓDULO DE FACTURACIÓN ---");
+        // Console.WriteLine("Modo prueba activo: " + MODO_PRUEBA);
 
-        decimal precioBase = 1500.50m;
-        decimal impuestoCalculado = precioBase * TASA_IVA;
-        decimal total = precioBase + impuestoCalculado;
+        // decimal precioBase = 1500.50m;
+        // decimal impuestoCalculado = precioBase * TASA_IVA;
+        // decimal total = precioBase + impuestoCalculado;
 
-        Console.WriteLine("\nDetalle de la compra:");
-        Console.WriteLine("Precio: " + SIMBOLO_PESO + precioBase);
-        Console.WriteLine("IVA (" + (TASA_IVA * 100) + "%): " + SIMBOLO_PESO + impuestoCalculado);
-        Console.WriteLine("TOTAL A PAGAR: " + SIMBOLO_PESO + total);
+        // Console.WriteLine("\nDetalle de la compra:");
+        // Console.WriteLine("Precio: " + SIMBOLO_PESO + precioBase);
+        // Console.WriteLine("IVA (" + (TASA_IVA * 100) + "%): " + SIMBOLO_PESO + impuestoCalculado);
+        // Console.WriteLine("TOTAL A PAGAR: " + SIMBOLO_PESO + total);
 
-        Console.WriteLine("\nPresiona ENTER para cerrar.");
-        Console.ReadLine();
+        // Console.WriteLine("\nPresiona ENTER para cerrar.");
+        // Console.ReadLine();
+    
+        string[] nombres = new string[20];
+        int[] edades = new int [20];
+
+        for (int i = 0; i < 20; i++) {
+            Console.WriteLine("Ingrese nombre");
+            nombres[i] = Console.ReadLine();
+            Console.WriteLine("Ingrese edad");
+            edades[i] = int.Parse(Console.ReadLine());
+        }
+
+        for (int i = 0; i < 20; i++) {
+            if (edades[i] > 30) {
+                Console.WriteLine($"{nombres[i]} tiene {edades[i]} años. PASA!");
+            } else {
+                Console.WriteLine($"{nombres[i]} tiene {edades[i]} años. ¡A LA CASA!");
+            }
+        }    
     }
 
     static void Ejercicio1V1()

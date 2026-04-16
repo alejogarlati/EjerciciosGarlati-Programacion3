@@ -22,6 +22,15 @@ El repositorio está segmentado en "Módulos" o "Programas", donde cada uno abor
 | 📁 **`Programa05`** | **Valores Lógicos (`bool` & `Random`)** | Simulación pseudoaleatoria del sistema (ej. encendido de luces, activación de alarmas, pronóstico de lluvias), sin estructuras condicionales (if). |
 | 📁 **`Programa06`** | **Constantes (`const`)** | Valores inmutables aplicados a fórmulas matemáticas (PI), reglas de negocios, límites de velocidad y restricciones de seguridad de acceso (Login). |
 | 📁 **`Programa07`** | **Módulo Financiero y Formateo** | Aplicación directa de porcentajes fijos a situaciones fiscales (Propinas, impuestos digitales, comisiones de plataformas dadas). Demostración del formateo estético para consolas (`.ToString("0.00")`). |
+| 📁 **`EjercicioLogica`** | **Estructuras de Control y Arreglos** | Ejercicio de control de ingreso a discoteca empleando búcles `for` y arrays para nombres y edades. |
+
+### 📝 Consigna de `EjercicioLogica`
+
+**Objetivo:**  
+Almacenar en sistema 20 nombres que ingresarán los clientes con sus respectivas edades, y solo aquellos que sean mayores de 30 años podrán ingresar al boliche. Quienes tengan menos de 30 mostrar mensaje “A la casa”.
+
+**Desarrollo:**  
+El programa deberá empezar por inicializar 2 Arrays (nombre y edad, el primero deberá contener 20 datos tipo string, y el segundo 20 datos tipo int). Para pedir el ingreso de cada dato, se usa un for que se repetirá 20 veces donde pedirá ingresar primero el nombre y luego la edad. Por cada iteración irá incrementando el índice en 1, generando que cada par de nombre/edad se guarde en el mismo índice. Luego se hace otro for para evaluar edad y escribir quien pasa y quien no (20 repeticiones, writelines con interpolación de nombre y edad usando el índice + la condición de si tiene 30 años o menos. Si tiene +30 se imprime “PASA”, sino “A LA CASA”.)
 
 ---
 
